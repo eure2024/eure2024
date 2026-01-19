@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eure2024
-- 👀 I’m interested in data analysis, business analytics, and data science.
+- 👀 I’m interested in data analysis, data science, and machine learning.
 - 💞️ I’m looking to collaborate on startups and anything climate related. 
 - 📫 How to reach me @ emilyu2019@gmail.com
 
